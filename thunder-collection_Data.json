@@ -1,0 +1,40 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Data",
+    "collectionId": "3f6eb946-56a5-4fe4-9d4c-475fb705fe3d",
+    "dateExported": "2025-06-14T19:05:41.433Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "a3ebba8a-9c0e-4335-8a2d-e2ac6cddfdc7",
+            "colId": "3f6eb946-56a5-4fe4-9d4c-475fb705fe3d",
+            "containerId": "",
+            "name": "http://localhost:3000/grades",
+            "url": "http://localhost:3000/grades",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2025-06-14T19:05:21.775Z",
+            "modified": "2025-06-14T19:05:21.775Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"studentName\": \"Alice\",\n  \"subject\": \"Math\",\n  \"grade\": \"9\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "d0efffad-da89-4f2c-a0f2-4ed92a0b8703",
+            "colId": "3f6eb946-56a5-4fe4-9d4c-475fb705fe3d",
+            "containerId": "",
+            "name": "http://localhost:3000/grades",
+            "url": "http://localhost:3000/grades",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-06-14T19:05:27.754Z",
+            "modified": "2025-06-14T19:05:27.754Z",
+            "headers": []
+        }
+    ],
+    "ref": "C-yO_J8RqgDFj4jRK5hBolD2H6Dd7Sd-uN5_-vGCiSIplkjuAuvx8xGc4HtPWCCioHFirVgT-GcXoin1n_9vYA"
+}
